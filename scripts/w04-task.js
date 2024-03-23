@@ -14,7 +14,7 @@ let myProfile = {
     hobbies: [
         'Crocheting',
         'Puzzles',
-        'Watching animes'
+        'Watch animes'
     ],
     placesLived: [],
 };
