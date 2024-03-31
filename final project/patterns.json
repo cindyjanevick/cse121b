@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Gnome Turkey",
+    "seasons": ["autumn", "summer"],
+    "materials": {
+      "yarn": ["white", "orange", "yellow", "beige", "brown", "red"]
+    },
+    "step": [
+      "Crochet the body using brown yarn",
+      "Crochet the hat using brown and beige yarn",
+      "Crochet the wings using brown, orange, beige and yellow yarn",
+      "Crochet the beak using yellow yarn",
+      "Crochet the beard using white yarn",
+      "Crochet the snood using red yarn",
+      "Sew everything together"
+    ],
+    "image": "https://www.passionatecrafter.com/wp-content/uploads/2023/10/FREE-CROCHET-PATTERN-1024x1024.jpg"
+  },
+
+  {
+    "name": "Halloween Kitty",
+    "seasons": ["autumn"],
+    "materials": {
+      "yarn": ["white", "orange", "yellow", "beige", "brown", "red"]
+    },
+    "step": [
+      "Crochet the body using brown yarn",
+      "Crochet the hat using brown and beige yarn",
+      "Crochet the wings using brown, orange, beige and yellow yarn",
+      "Crochet the beak using yellow yarn",
+      "Crochet the beard using white yarn",
+      "Crochet the snood using red yarn",
+      "Sew everything together"
+    ],
+    "image": "https://www.amigurumiday.com/wp-content/uploads/2022/10/Crochet-Halloween-Hello-Kitty-PDF-Free-Pattern-1.jpg"
+  },
+
+  {
+    "name": "Spring Eggs",
+    "seasons": ["summer"],
+    "materials": {
+      "yarn": ["white", "orange", "yellow", "beige", "brown", "red"]
+    },
+    "step": [
+      "Crochet the body using brown yarn",
+      "Crochet the hat using brown and beige yarn",
+      "Crochet the wings using brown, orange, beige and yellow yarn",
+      "Crochet the beak using yellow yarn",
+      "Crochet the beard using white yarn",
+      "Crochet the snood using red yarn",
+      "Sew everything together"
+    ],
+    "image": "https://i0.wp.com/guichaidolls.com/wp-content/uploads/2024/03/BE001.jpg?w=1040&ssl=1"
+  },
+
+  {
+    "name": "Sunflower summer",
+    "seasons": ["summer"],
+    "materials": {
+      "yarn": ["white", "orange", "yellow", "beige", "brown", "red"]
+    },
+    "step": [
+      "Crochet the body using brown yarn",
+      "Crochet the hat using brown and beige yarn",
+      "Crochet the wings using brown, orange, beige and yellow yarn",
+      "Crochet the beak using yellow yarn",
+      "Crochet the beard using white yarn",
+      "Crochet the snood using red yarn",
+      "Sew everything together"
+    ],
+    "image": "https://i.etsystatic.com/22349776/r/il/93095c/3290120977/il_1140xN.3290120977_j0f7.jpg"
+  },
+
+  {
+    "name": "Winter Gnome",
+    "seasons": ["winter"],
+    "materials": {
+      "yarn": ["white", "orange", "yellow", "beige", "brown", "red"]
+    },
+    "step": [
+      "Crochet the body using brown yarn",
+      "Crochet the hat using brown and beige yarn",
+      "Crochet the wings using brown, orange, beige and yellow yarn",
+      "Crochet the beak using yellow yarn",
+      "Crochet the beard using white yarn",
+      "Crochet the snood using red yarn",
+      "Sew everything together"
+    ],
+    "image": "https://www.passionatecrafter.com/wp-content/uploads/2023/01/rsz_1dsc_2394-1024x886.jpg"
+  }
+]
