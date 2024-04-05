@@ -1,11 +1,11 @@
-// Event listener for season filter dropdown
+
 const seasonDropdown = document.getElementById("season");
 seasonDropdown.addEventListener("change", () => {
   const selectedSeason = seasonDropdown.value;
-  display_des(jsonLoc, selectedSeason); // Show all designs if 'All' is selected
+  display_des(jsonLoc, selectedSeason); 
 });
 
-// Display all designs initially on page load
+
 
 const jsonLoc = "patterns.json";
 
