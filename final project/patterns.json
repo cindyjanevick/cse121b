@@ -78,5 +78,42 @@
       "Sew everything together"
     ],
     "image": "https://www.passionatecrafter.com/wp-content/uploads/2023/01/rsz_1dsc_2394-1024x886.jpg"
+  },
+
+  {
+    "name": "Christmas bear ",
+    "seasons": ["winter"],
+    "materials": {
+      "yarn": ["beige", "light brown", "white", "green", "red"]
+    },
+    "step": [
+      "Crochet the muzzle using beige yarn",
+      "Crochet the head using light brown yarn",
+      "Crochet the ears using light brown yarn",
+      "Crochet the handles using green yarn",
+      "Crochet the body using gree yarn",
+      "Crochet the jacket using white yarn",
+      "Sew everything together"
+    ],
+    "image": "https://freeamigurumi.picpin.pro/wp-content/uploads/2020/11/freeamigurumi90-scaled.jpg"
+  },
+
+  {
+    "name": " Margarita la flor",
+    "seasons": ["spring"],
+    "materials": {
+      "yarn": ["white", "pink", "yellow", "beige", "brown"]
+    },
+    "step": [
+      "Crochet the pot using beige yarn",
+      "Crochet the dirt using brown yarn",
+      "Crochet the skirt using yellow yarn",
+      "Crochet the steam using green yarn",
+      "Crochet the hear using white yarn",
+      "Crochet the hat using pink and yellow yarn",
+      "Sew everything together"
+    ],
+    "image": "https://i.pinimg.com/564x/a8/c8/21/a8c821111937c6c0aeb847a28512551a.jpg"
   }
+
 ]
