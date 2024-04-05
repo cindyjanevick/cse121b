@@ -14,9 +14,15 @@ body {
   }
 
   header h1 {
-    font-family: 'Single Day', Arial, sans-serif;
     font-size: 48px;
   }
+  h2 {
+    font-family: 'Single Day', Arial, sans-serif;
+    font-size: 44px;
+    color: navy;
+    text-align: center;
+    margin-top: 25px;
+}
 
   #filters {
     margin-bottom: 20px;
